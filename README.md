@@ -1,6 +1,11 @@
-# Sample Hardhat Project
+# Elon Sample NFT Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+## About 
+This project demonstrates a basic ERC721 NFT Smart Contract usage using Solidity, Javascript and Hardhat. I created this to study and understand how I can create different NFT Smart Contracts and deploy it on the testnet. 
+The smart contract is deployed on the goerli ethereum testnet and minted to my perosnal wallet address. 
+ 
+Link to the minted nft - 
 
 Try running some of the following tasks:
 
